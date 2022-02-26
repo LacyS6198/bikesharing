@@ -1,2 +1,4 @@
-# bikesharing
-Module 14 Data Analytics Bootcamp - bikesharing
+# CitiBike Bike Sharing Analysis
+
+## Project Overview
+The purpose of this project 
