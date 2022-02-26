@@ -5,7 +5,7 @@ The purpose of this project was to analyze NYC CitiBike data to determine feasib
 
 ## Results
 ### Tableau Dashboard
-https://public.tableau.com/shared/DZKTX9YSY?:display_count=n&:origin=viz_share_link
+[Link to Tableau Dashboard](https://public.tableau.com/shared/DZKTX9YSY?:display_count=n&:origin=viz_share_link)
 
 ### Visualizations and Analysis
 
