@@ -50,4 +50,8 @@ Top starting and ending locations are similar and are clustered around Manhattan
 Below is a summary of key results and additional analysis that could be performed. 
 
 ### Summary of Results
+Based on the analysis done, it appears the more males utilize the bike sharing service than females. Usage times for Subscribers are primarily during weekdays while Customers primarily use the serivce during the weekends. Weekday usage is heaviest during typical work commuting times (8:00 - 9:00am and 5:00pm - 6:00pm). Usage on the weekends is steady throughout the time period of 10:00am - 6:00pm on Saturdays and Sundays. 
+
 ### Additional Analysis
+ - Review top starting and ending locations by weekday. Since there is a difference in usage times by weekday and user type, it would be beneficial to see the top locations based on weekday.
+ - Subscriber type by gender. There is a significant difference between male and female riders. It would be beneficial to see if more subscribers are male or female. Once this is determined, further analysis could be done to determine reasons for this and potentially used to tailor marketing materials to either (1) increase subscribers or (2) increase customer usage.
